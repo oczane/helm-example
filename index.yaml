@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  eaglewebapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-26T08:06:08.496125+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 429337cfece283c548af2bad7aaa9717c9946e24efe5dccf480bc1ecc228abcc
+    name: eaglewebapp
+    type: application
+    urls:
+    - https://oczane.github.io/helm-example/eaglewebapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-26T08:06:08.494579+01:00"
